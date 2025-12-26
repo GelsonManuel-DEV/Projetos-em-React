@@ -1,0 +1,10 @@
+#il-card{
+    cursor: pointer;
+    transition: 0.4s;
+}
+#il-card img{
+    transition: all 0.5s;
+}
+#il-card:hover  img{
+    border-radius: 9999px;
+}
