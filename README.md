@@ -1,6 +1,6 @@
 # CÓPIA DO SITE ALLBIRDS 
 
-![Banner do Projeto](/images/Projeto.png)
+![Banner do Projeto](image/Projeto.png)
 
 ## 📋 Descrição
 Este Projeto é uma cópia do site Allbirds, foi feito com intuito de melhorar as minhas capacidades a nível de desenvolvimento. 🚀🚀
